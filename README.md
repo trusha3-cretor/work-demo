@@ -1,6 +1,6 @@
 # work-demo
 this is my first repository
 <br>
-author-trisha singh
+author-trisha (github)
 <br>
 Btech-IoT
